@@ -1,6 +1,6 @@
 {
   "name": "binary-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A stream of binary values separated by a fixed length header containing the chunk size",
   "main": "index.js",
   "scripts": {
