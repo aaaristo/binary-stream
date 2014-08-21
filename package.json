@@ -1,0 +1,28 @@
+{
+  "name": "binary-stream",
+  "version": "0.0.0",
+  "description": "A stream of binary values separated by a fixed length header containing the chunk size",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaaristo/binary-stream.git"
+  },
+  "keywords": [
+    "binary",
+    "stream",
+    "chunks"
+  ],
+  "author": "aaaristo",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/aaaristo/binary-stream/issues"
+  },
+  "homepage": "https://github.com/aaaristo/binary-stream",
+  "dependencies": {
+    "binary": "^0.3.0",
+    "event-stream": "^3.1.7"
+  }
+}
